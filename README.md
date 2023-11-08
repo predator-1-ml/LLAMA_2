@@ -82,6 +82,8 @@ I have included the results in CSV files and in the code output of the Final_LLA
 
 Here's a screenshot of the results from my LLAMA project:
 
-![Results Screenshot](results_screenshot.png)
+![Results Screenshot](llama_1.png)
+![Results Screenshot](llama_2.png)
+
 
 
