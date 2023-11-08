@@ -74,6 +74,10 @@ The solution for each task is designed with a focus on simplicity and reproducib
 
 For evaluation, I have used the [Kaggle](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions) dataset. This dataset has 5000 diversified clinical texts. 
 
+## Improvement
+
+We can fine-tune the LLAMA-2 model for each specific task. Since we already have a basic [dataset](mtsamples.csv) available to us, there should be no problem in finetuning LLAMA-2 except for resources. 
+
 ## Results
 
 I have included the results in CSV files and in the code output of the [Final_LLAMA](Final_LLAMA.ipynb) notebook. 
