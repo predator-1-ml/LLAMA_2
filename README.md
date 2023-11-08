@@ -6,7 +6,6 @@ I embarked on the LLAMA project, an ambitious undertaking that leverages state-o
 
 ## Project Structure
 
-I organized the project into the following key tasks:
 
 1. Clinical NER Extraction
 2. Information Retrieval
@@ -26,10 +25,9 @@ For this task, I harnessed the power of Prompt Engineering and the Embeddings Me
 
 I followed a structured procedure for Clinical NER Extraction:
 
-1. Data Preprocessing
-2. Applying Prompt Engineering
-3. Utilizing Embeddings for NER
-4. Post-processing and Evaluation
+1. Applying Prompt Engineering
+2. Utilizing Embeddings for NER
+3. Post-processing and Evaluation
 
 ## Information Retrieval
 
@@ -45,10 +43,10 @@ I employed the Embeddings Method powered by sentence-transformers/all-mpnet-base
 
 My approach to Information Retrieval consisted of the following steps:
 
-1. Corpus Preparation
-2. Embeddings-Based Document Retrieval
-3. Relevance Scoring
-4. Document Selection and Ranking
+
+1. Embeddings-Based Document Retrieval
+2. Relevance Scoring
+3. Document Selection and Ranking
 
 ## Summarization
 
@@ -62,7 +60,7 @@ I harnessed the power of sentence-transformers/all-mpnet-base-v2 for generating 
 
 ### Procedure
 
-My Summarization procedure included the following steps:
+My Summarization procedure included the following step:
 
 
 1. Abstractive Summarization
@@ -70,7 +68,7 @@ My Summarization procedure included the following steps:
 
 ## Approach to the Solution
 
-The solution for each task is designed with a focus on simplicity and reproducibility. In each task section, I provide detailed steps and methods used, making it easy for the evaluator or others to replicate my results. You can replicate the results by running the Final_LLAMA notebook in the order. 
+The solution for each task is designed with a focus on simplicity and reproducibility. In each task section, I provide detailed steps and methods used, making it easy for the evaluator or others to replicate my results. You can replicate the results by running the [Final_LLAMA](Final_LLAMA.ipynb) notebook in the order. 
 
 ## Evaluation
 
@@ -78,7 +76,7 @@ For evaluation, I have used the [Kaggle](https://www.kaggle.com/datasets/tboyle1
 
 ## Results
 
-I have included the results in CSV files and in the code output of the Final_LLAMA notebook. 
+I have included the results in CSV files and in the code output of the [Final_LLAMA](Final_LLAMA.ipynb) notebook. 
 
 Here's a screenshot of the results from my LLAMA project:
 
